@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "everything (everywhere) all at once.",
+  "base_artist": "lilbesh ramko",
+  "createdAt": "2025-12-14T16:26:09.010513Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything Everywhere All At Once",
+      "artist": "Ethansroom",
+      "has_synced": false,
+      "path": "select/01_Everything_Everywhere_All_At_Once_Ethansroom.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything Everywhere All At Once",
+      "artist": "Caity Baser",
+      "has_synced": false,
+      "path": "select/02_Everything_Everywhere_All_At_Once_Caity_Baser.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything Everywhere All At Once",
+      "artist": "Caity Baser",
+      "has_synced": true,
+      "path": "select/03_Everything_Everywhere_All_At_Once_Caity_Baser.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "everything (everywhere) all at once.",
+      "artist": "lilbesh ramko",
+      "has_synced": false,
+      "path": "select/pl_01_everything_(everywhere)_all_at_once._lilbesh_ramko.txt"
+    }
+  ]
+}
